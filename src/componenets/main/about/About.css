@@ -1,0 +1,27 @@
+.about {
+  margin: 105px auto 85px;
+}
+
+.about__title {
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 77px;
+  letter-spacing: -2.50105px;
+  color: #19191b;
+  max-width: 467px;
+  margin-bottom: 30px;
+}
+
+.about__description {
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: -0.625263px;
+  color: #696871;
+  max-width: 410px;
+  margin-bottom: 50px;
+}
+
+.button__wrap {
+  display: flex;
+  gap: 35px;
+}

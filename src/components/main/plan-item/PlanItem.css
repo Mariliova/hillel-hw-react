@@ -1,0 +1,48 @@
+.item {
+  width: 330px;
+  background-color: #f8f8f8;
+  border-radius: 10px;
+  text-align: center;
+  padding: 34px 0 27px;
+}
+
+.item:hover {
+  background: #ff7143;
+  box-shadow: 0px 32px 34px rgba(255, 112, 59, 0.317827);
+  transition: 500ms;
+}
+
+.item:hover .item__text,
+.item:hover .item__title,
+.item:hover .item__li {
+  color: #ffffff;
+  transition: 500ms;
+}
+
+.item__text {
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.562737px;
+  color: #696871;
+}
+
+.item__title {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 56px;
+  letter-spacing: -1.03448px;
+  color: #1d293f;
+  margin: 22px 0 28px;
+}
+
+.item__title-span {
+  font-size: 28px;
+}
+
+.item__li {
+  list-style: none;
+  font-size: 17px;
+  line-height: 50px;
+  letter-spacing: -0.531474px;
+  color: #696871;
+}

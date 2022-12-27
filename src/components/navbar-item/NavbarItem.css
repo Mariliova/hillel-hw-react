@@ -1,0 +1,21 @@
+.navbar__item {
+  display: inline-block;
+}
+
+.navbar__item:not(:first-of-type) {
+  margin-left: 49px;
+}
+
+.navbar__link {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.468947px;
+  color: #696871;
+  text-decoration: none;
+}
+
+.navbar__link:hover {
+  color: black;
+  transition: 300ms;
+}

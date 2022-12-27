@@ -41,13 +41,15 @@
 
 .button--item {
   width: 285px;
-  background-color: #f8f8f8;
+  background-color: #ffffff;
+  border: 1px solid #eae9f2;
   color: #5454d4;
   margin-top: 36px;
 }
 
 .item:hover .button--item {
   background: #9f3919;
+  border: 1px solid #9f3919;
   color: #ffffff;
   transition: 500ms;
 }

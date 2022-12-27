@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "./componenets/header/Header";
-import About from "./componenets/main/about/About";
-import Subscribe from "./componenets/main/subscribe/Subscribe";
+import Header from "./components/header/Header";
+import About from "./components/main/about/About";
+import Subscribe from "./components/main/subscribe/Subscribe";
 
 function App() {
   return (

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hillel-hw-react/static/css/main.b35a71fd.css",
+    "main.js": "/hillel-hw-react/static/js/main.51d8fe90.js",
+    "static/media/firstman.png": "/hillel-hw-react/static/media/firstman.c1c8e42931b3309960cf.png",
+    "static/media/secondman.png": "/hillel-hw-react/static/media/secondman.adc61242d1cb2b051709.png",
+    "static/media/logo.svg": "/hillel-hw-react/static/media/logo.8f062102c65426e5b8b9ce1ea193e571.svg",
+    "index.html": "/hillel-hw-react/index.html",
+    "main.b35a71fd.css.map": "/hillel-hw-react/static/css/main.b35a71fd.css.map",
+    "main.51d8fe90.js.map": "/hillel-hw-react/static/js/main.51d8fe90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b35a71fd.css",
+    "static/js/main.51d8fe90.js"
+  ]
+}
